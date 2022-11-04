@@ -1,0 +1,4 @@
+Hello, The Odin Project!
+I'm already enjoying small steps forward in my skill development.
+Version control is important and Git is something I have been meaning to implement. 
+The Odin Project layout is already clicking better for me than most other tutorial options that I have personally tried. With that. I am curious to see where I end up in three, six and twelve months from now.
